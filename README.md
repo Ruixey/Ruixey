@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ruixey 👋
 
-<!--
-**Ruixey/Ruixey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer | DevOps Engineer | Game Dev Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about building robust, scalable solutions.
+- 🛠️ Languages & Tools: Lua, C#, Java, TypeScript, JavaScript, Python, Go, HTML, CSS.
+- 🏗️ DevOps Engineer & Arch Linux user.
+- 🎮 Game development enthusiast.
+- ⚡ Enthusiastic perfectionist, always striving for clean and elegant code.
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ruixey&theme=dracula&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruixey&theme=default&show_icons=true&hide_border=true&layout=compact)
