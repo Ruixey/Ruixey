@@ -2,7 +2,27 @@
 
 **Developer | DevOps Engineer | Game Dev Enthusiast**
 
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruixey&theme=tokyonight)
+<p>
+  <!-- LINKS -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruixey&theme=tokyonight&hide_border=true"
+    height="340"
+    align="left"
+  />
+
+  <!-- RECHTS -->
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruixey&theme=tokyonight"
+    height="170"
+  />
+  <br />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Ruixey&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+<br clear="all" />
 
 ---
 
@@ -13,18 +33,3 @@
 - ⚡ Enthusiastic perfectionist, always striving for clean and elegant code.
 
 ---
-
-<p>
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ruixey&theme=tokyonight"
-    height="170"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Ruixey&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruixey&theme=tokyonight&layout=compact"
-    height="170"
-  />
-</p>
