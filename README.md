@@ -3,14 +3,10 @@
 **Developer | DevOps Engineer | Game Dev Enthusiast**
 
 <p>
-  <!-- LINKS -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruixey&theme=tokyonight&hide_border=true"
-    height="340"
-    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruixey&theme=tokyonight&hide_border=true&layout=compact"
+    height="170"
   />
-
-  <!-- RECHTS -->
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=Ruixey&theme=tokyonight&hide_border=true"
     height="170"
@@ -19,10 +15,7 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruixey&theme=tokyonight"
     height="170"
   />
-  <br />
 </p>
-
-<br clear="all" />
 
 ---
 
