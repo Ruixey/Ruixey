@@ -2,7 +2,7 @@
 
 **Developer | DevOps Engineer | Game Dev Enthusiast**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ruixey&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues" width=700 />
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruixey&theme=tokyonight)
 
 ---
 
@@ -14,5 +14,17 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ruixey&theme=dracula&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruixey&theme=default&show_icons=true&hide_border=true&layout=compact)
+<p>
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ruixey&theme=tokyonight"
+    height="170"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Ruixey&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruixey&theme=tokyonight&layout=compact"
+    height="170"
+  />
+</p>
