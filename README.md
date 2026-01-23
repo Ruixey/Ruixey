@@ -12,14 +12,14 @@
 
   <!-- RECHTS -->
   <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Ruixey&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruixey&theme=tokyonight"
     height="170"
   />
   <br />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Ruixey&theme=tokyonight&hide_border=true"
-    height="170"
-  />
 </p>
 
 <br clear="all" />
